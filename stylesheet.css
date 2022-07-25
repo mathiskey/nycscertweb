@@ -17,8 +17,13 @@ ul {
     margin: 25px 50px 75px 100px;
 }
 
-ul li::before {
-    content: "\F18B";
-    padding: 0 10px 0 0;
+<style>
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
 }
+</style>
 
