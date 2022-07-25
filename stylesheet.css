@@ -1,5 +1,5 @@
 p {
-    margin: 25px 50px 75px 100px;
+    margin: 25px 50px 25px 100px;
     
 }
 
@@ -14,7 +14,7 @@ p {
 
 ul {
     list-style-type: none;
-    margin: 25px 50px 75px 100px;
+    margin: 25px 50px 25px 100px;
 }
 
 <style>
