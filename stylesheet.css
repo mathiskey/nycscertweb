@@ -1,3 +1,8 @@
+body {
+    padding: 0 10px 0 0;
+    
+}
+
 ul {
     list-style-type: none;
 }
@@ -5,4 +10,8 @@ ul {
 ul li::before {
     content: "\F18B";
     padding: 0 10px 0 0;
+}
+
+#grad {
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
 }
