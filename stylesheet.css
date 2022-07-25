@@ -1,9 +1,10 @@
-body {
+p {
     margin: 25px 50px 75px 100px;
     
 }
 
 .top {
+  margin: 25px 50px 75px 100px;
   background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
   width: 500px;
   adding: 25px;
@@ -13,6 +14,7 @@ body {
 
 ul {
     list-style-type: none;
+    margin: 25px 50px 75px 100px;
 }
 
 ul li::before {
