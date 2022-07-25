@@ -3,7 +3,6 @@ ul {
 }
 
 ul li::before {
-    content: "\f005";
-    font-family: "Font Awesome 5 Free";
+    content: "\F18B";
     padding: 0 10px 0 0;
 }
