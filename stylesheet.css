@@ -3,6 +3,11 @@ body {
     
 }
 
+.top {
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  width: 500px;
+}
+
 ul {
     list-style-type: none;
 }
@@ -12,6 +17,3 @@ ul li::before {
     padding: 0 10px 0 0;
 }
 
-#grad {
-  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
-}
