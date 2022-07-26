@@ -16,7 +16,7 @@ ul {
 }
 
 ul li::before {
-  content: "\200B \0020";
+  content: "\266C \0020";
 }
 
 
