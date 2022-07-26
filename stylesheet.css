@@ -15,17 +15,8 @@ p {
 }
 
 ul {
-    list-style-type: none;
+    list-style-type: \F18B \0020;
     margin: 25px 50px 25px 100px;
 }
 
-<style>
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 48
-}
-</style>
 
